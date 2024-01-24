@@ -1,0 +1,37 @@
+<svg id="no_internet" xmlns="http://www.w3.org/2000/svg" width="64" height="62" viewBox="0 0 64 62">
+  <g id="Group_3723" data-name="Group 3723">
+    <path id="Path_11387" data-name="Path 11387" d="M59,24a3.995,3.995,0,0,0-4-4H9a3.995,3.995,0,0,0-4,4V56H59Z" fill="#474545"/>
+    <rect id="Rectangle_1047" data-name="Rectangle 1047" width="46" height="28" transform="translate(9 24)" fill="#fff"/>
+    <rect id="Rectangle_1048" data-name="Rectangle 1048" width="64" height="2" transform="translate(0 56)" fill="#eff4f7"/>
+    <path id="Path_11388" data-name="Path 11388" d="M64,58a3.995,3.995,0,0,1-4,4H4a3.995,3.995,0,0,1-4-4Z" fill="#dfe3e6"/>
+    <path id="Path_11389" data-name="Path 11389" d="M38,58H26l-2-2H40Z" fill="#5e5c5c"/>
+  </g>
+  <g id="Group_3728" data-name="Group 3728">
+    <rect id="Rectangle_1049" data-name="Rectangle 1049" width="46" height="4" transform="translate(9 48)" fill="#dfe3e6"/>
+    <rect id="Rectangle_1050" data-name="Rectangle 1050" width="46" height="4" transform="translate(9 24)" fill="#dfe3e6"/>
+    <g id="Group_3724" data-name="Group 3724">
+      <line id="Line_88" data-name="Line 88" x1="2" transform="translate(51 38)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_89" data-name="Line 89" x1="10" transform="translate(39 38)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_3725" data-name="Group 3725">
+      <line id="Line_90" data-name="Line 90" x2="2" transform="translate(11 38)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_91" data-name="Line 91" x2="10" transform="translate(15 38)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <circle id="Ellipse_61" data-name="Ellipse 61" cx="8" cy="8" r="8" transform="translate(24 30)" fill="#e5355b"/>
+    <g id="Group_3726" data-name="Group 3726">
+      <line id="Line_92" data-name="Line 92" x2="2" transform="translate(27 49)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_93" data-name="Line 93" x2="2" transform="translate(31 49)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_94" data-name="Line 94" x2="2" transform="translate(35 49)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+    <g id="Group_3727" data-name="Group 3727">
+      <line id="Line_95" data-name="Line 95" x2="6" y2="6" transform="translate(29 35)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_96" data-name="Line 96" y1="6" x2="6" transform="translate(29 35)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+  <g id="Group_3729" data-name="Group 3729">
+    <path id="Path_11390" data-name="Path 11390" d="M18,15a14,14,0,0,1,28,0" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_11391" data-name="Path 11391" d="M22,15a10,10,0,0,1,20,0" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    <path id="Path_11392" data-name="Path 11392" d="M26,15a6,6,0,0,1,12,0" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+    <circle id="Ellipse_62" data-name="Ellipse 62" cx="2" cy="2" r="2" transform="translate(30 13)" fill="none" stroke="#474545" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

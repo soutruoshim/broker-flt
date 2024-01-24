@@ -1,0 +1,20 @@
+<svg id="property_limites" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="back" width="24" height="24" transform="translate(-4 -4)" fill="#087c7c"/>
+    </clipPath>
+  </defs>
+  <g id="propert" transform="translate(4 4)" clip-path="url(#clip-path)">
+    <path id="property_doc" data-name="property doc" d="M20.165,0h-11A1.835,1.835,0,0,0,7.333,1.833v.049l-6,1.706A1.833,1.833,0,0,0,.069,5.854L4.278,20.666A1.833,1.833,0,0,0,6.542,21.93l10.077-2.865h3.546A1.835,1.835,0,0,0,22,17.232V1.833A1.835,1.835,0,0,0,20.165,0ZM4.338,9.594,7.264,4.351l.069.037V8.746Zm2.994-.086v4.954l-.576.165-1.3-4.586Zm-.99,11.716a1.105,1.105,0,0,1-1.359-.76L.895,6.073l-.12-.419a1.1,1.1,0,0,1,.759-1.359l5.8-1.649V3.62a.727.727,0,0,0-.709.37L3.7,9.239a.733.733,0,0,0,.64,1.09.726.726,0,0,0,.2-.029l.209-.059,1.4,4.937a.367.367,0,0,0,.353.267.378.378,0,0,0,.1-.014l.728-.206v2.007a1.835,1.835,0,0,0,1.833,1.833h4.772Zm14.922-3.992a1.1,1.1,0,0,1-1.1,1.1h-11a1.1,1.1,0,0,1-1.1-1.1V1.833a1.1,1.1,0,0,1,1.1-1.1h11a1.1,1.1,0,0,1,1.1,1.1Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-2" data-name="property doc" d="M18.7,12.466V7.333h.215a.733.733,0,0,0,.518-1.252L18.7,5.348V3.3a.733.733,0,0,0-.733-.733h-.733a.733.733,0,0,0-.719.6L15.184,1.833a.733.733,0,0,0-1.037,0L9.9,6.081a.733.733,0,0,0,.518,1.252h.215v5.133a.367.367,0,0,0,.367.367h7.333A.367.367,0,0,0,18.7,12.466ZM17.232,3.3h.733V4.614l-.733-.733Zm-2.566-.948L18.918,6.6h-8.5ZM15.4,12.1H13.932V9.9H15.4Zm.733,0V9.9a.733.733,0,0,0-.733-.733H13.932A.733.733,0,0,0,13.2,9.9v2.2H11.366V7.333h6.6V12.1Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-3" data-name="property doc" d="M9.9,13.566H9.166a.367.367,0,1,0,0,.733H9.9a.367.367,0,0,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-4" data-name="property doc" d="M9.9,15.032H9.166a.367.367,0,1,0,0,.733H9.9a.367.367,0,0,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-5" data-name="property doc" d="M9.9,16.5H9.166a.367.367,0,0,0,0,.733H9.9a.367.367,0,0,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-6" data-name="property doc" d="M20.165,13.566H11.732a.367.367,0,0,0,0,.733h8.433a.367.367,0,1,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-7" data-name="property doc" d="M20.165,15.032H11.732a.367.367,0,0,0,0,.733h8.433a.367.367,0,1,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-8" data-name="property doc" d="M16.865,16.5H11.732a.367.367,0,0,0,0,.733h5.133a.367.367,0,0,0,0-.733Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-9" data-name="property doc" d="M5.946,17.143a.367.367,0,0,0-.2-.705l-.705.2a.367.367,0,0,0,.2.705Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-10" data-name="property doc" d="M6.346,18.552a.367.367,0,1,0-.2-.705l-.705.2a.367.367,0,0,0,.1.719.356.356,0,0,0,.1-.014Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+    <path id="property_doc-11" data-name="property doc" d="M6.547,19.259l-.705.2a.367.367,0,1,0,.2.706l.705-.2a.367.367,0,0,0-.2-.705Z" transform="translate(-2.999 -3)" fill="#087c7c"/>
+  </g>
+</svg>

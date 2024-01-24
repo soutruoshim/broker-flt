@@ -1,0 +1,20 @@
+<svg id="ads" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="back" width="24" height="24" transform="translate(-4 -4)" fill="#087c7c"/>
+    </clipPath>
+  </defs>
+  <g id="ads-2" data-name="ads" transform="translate(4 4)" clip-path="url(#clip-path)">
+    <path id="ads-3" data-name="ads" d="M3.864,4.657a.43.43,0,1,0,.3-.126A.433.433,0,0,0,3.864,4.657Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-4" data-name="ads" d="M15.842,4.531H5.887a.43.43,0,0,0,0,.859h9.955a.659.659,0,0,1,.658.658v8.819H13.644a.43.43,0,0,0,0,.859H16.5v.2a.659.659,0,0,1-.658.658H3.293a.43.43,0,0,0-.277.1L.859,18.5V6.048a.659.659,0,0,1,.658-.658h.932a.43.43,0,0,0,0-.859H1.518A1.519,1.519,0,0,0,0,6.048V19.427a.43.43,0,0,0,.706.329l2.743-2.31H15.842a1.519,1.519,0,0,0,1.518-1.518V6.048a1.519,1.519,0,0,0-1.518-1.517Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-5" data-name="ads" d="M8.68,3.006a.43.43,0,0,0,.43-.43V.43a.43.43,0,1,0-.859,0V2.577A.43.43,0,0,0,8.68,3.006Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-6" data-name="ads" d="M11.918,3.181a.428.428,0,0,0,.3-.126l1.5-1.5a.43.43,0,0,0-.608-.608l-1.5,1.5a.43.43,0,0,0,.3.734Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-7" data-name="ads" d="M5.137,3.052a.43.43,0,0,0,.608-.608l-1.5-1.5a.43.43,0,0,0-.608.608Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-8" data-name="ads" d="M8.68,18.994a.43.43,0,0,0-.43.43V21.57a.43.43,0,0,0,.859,0V19.423A.43.43,0,0,0,8.68,18.994Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-9" data-name="ads" d="M12.222,18.945a.43.43,0,1,0-.608.608l1.5,1.5a.43.43,0,1,0,.608-.608Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-10" data-name="ads" d="M5.137,18.948l-1.5,1.5a.43.43,0,1,0,.608.608l1.5-1.5a.43.43,0,1,0-.608-.608Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-11" data-name="ads" d="M12.629,10.727a2.044,2.044,0,0,0-2.042-2.042H9.655a.43.43,0,0,0-.43.43V12.9a.43.43,0,0,0,.43.43h.932a2.044,2.044,0,0,0,2.042-2.042Zm-.859.556a1.184,1.184,0,0,1-1.183,1.183h-.5V9.545h.5a1.184,1.184,0,0,1,1.183,1.183Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-12" data-name="ads" d="M5.116,11.679l-.363,1.08a.43.43,0,1,0,.814.274l.268-.8H7.029l.268.8a.43.43,0,1,0,.814-.274L6.839,8.978a.43.43,0,0,0-.814,0l-.909,2.7h0Zm1.316-1.217.308.914H6.124Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+    <path id="ads-13" data-name="ads" d="M11.643,14.993a.43.43,0,1,0,.3-.126A.433.433,0,0,0,11.643,14.993Zm0,0" transform="translate(-0.68 -3)" fill="#087c7c"/>
+  </g>
+</svg>
